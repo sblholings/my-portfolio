@@ -1,2 +1,2 @@
 # my-portfolio
-this is my professional portfolio
+This my professional Portfolio. It uses AWS and ReactJS
